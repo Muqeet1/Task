@@ -1,0 +1,44 @@
+{
+  "persons": [
+    {
+      "firstName": "Hamza",
+      "lastName": "Ahmad",
+      "email": "hamza@gmail.com",
+      "phoneNumber": "145646498",
+      "city": "Helsinki",
+      "id": 1
+    },
+    {
+      "firstName": "Muqeet ",
+      "lastName": "Muhammad",
+      "email": "muqeet@gmail.com",
+      "phoneNumber": "23235994",
+      "city": "Tampere",
+      "id": 2
+    },
+    {
+      "firstName": "Ali",
+      "lastName": "Bhai",
+      "email": "ali@gmail.com",
+      "phoneNumber": "15641651",
+      "city": "Tampere",
+      "id": 3
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Jones",
+      "email": "jack@gmail.com",
+      "phoneNumber": "15641651",
+      "city": "Tampere",
+      "id": 4
+    },
+    {
+      "firstName": "Hanley",
+      "lastName": "Sons",
+      "email": "hanley@sons.com",
+      "phoneNumber": "130948497139",
+      "city": "Tampere",
+      "id": 5
+    }
+  ]
+}

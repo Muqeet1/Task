@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+}
+
+.righty {
+  background: #e8f6fe;
+  width: 100%;
+}
+
+.lefty {
+  width: 100%;
+}
