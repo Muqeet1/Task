@@ -23,7 +23,7 @@ A general utility script for Flask applications.
   from a wsgi.py file. Setting the FLASK_ENV environment variable to  
   'development' will enable debug mode.
 
-    > set FLASK_APP=hello.py
+    > set FLASK_APP=app.py
     > set FLASK_ENV=development
     > flask run
 
